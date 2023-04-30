@@ -1,5 +1,11 @@
 Continuación del proyecto https://github.com/miguipasto/crud-app-mean . Implementación de Microservicios RESTful.
 
+## Autores
+- https://github.com/Carcalmoa
+- https://github.com/henarmarino
+- https://github.com/miguipasto
+
+
 # Instalación
 Instalación y ejecución con 'docker-compose build' y 'docker-compose up'
 
@@ -30,7 +36,4 @@ Simula una web de compra donde administradores podrán gestionar los artículos 
 ![image](https://user-images.githubusercontent.com/127023319/235368387-655d76f9-6904-4486-b5ba-0fc88cb14194.png)
 
 
-## Devolopers
-- https://github.com/Carcalmoa
-- https://github.com/henarmarino
-- https://github.com/miguipasto
+
